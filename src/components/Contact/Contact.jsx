@@ -27,7 +27,7 @@ const Contact = () => {
         />
         <button
           type="submit"
-          className="p-3 rounded bg-orange-600 text-white font-bold mt-6 cursor-pointer"
+          className="p-3 rounded bg-orange-600 text-white font-bold mt-6 cursor-pointer transition-colors hover:bg-amber-800"
         >
           Submit Form{" "}
         </button>
